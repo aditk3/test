@@ -1,0 +1,15 @@
+*.csproj
+*.unityproj
+*.pidb
+*.userprefs
+*.user
+*.suo
+/Library
+/Temp
+/*.sln
+*.apk
+*.unitypackage
+/obj
+/PluginSrc/SetectImageFromCameraAndGallery/bin
+/PluginSrc/SetectImageFromCameraAndGallery/gen
+
